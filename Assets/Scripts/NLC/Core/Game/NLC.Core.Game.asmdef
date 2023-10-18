@@ -1,0 +1,23 @@
+{
+    "name": "NLC.Core.Game",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7b460bd3665fb6b48913456b69e1d159"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "macOSStandalone",
+        "WSA",
+        "WebGL",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
