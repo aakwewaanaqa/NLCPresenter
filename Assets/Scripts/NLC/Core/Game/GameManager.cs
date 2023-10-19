@@ -19,7 +19,8 @@ namespace NLC.Core.Game
         protected override void Awake()
         {
             base.Awake();
-            gameObject
+            
+            new GameObject("Event System")
                .Component(out eventSystem)
                .Component(out standaloneInputModule);
 
